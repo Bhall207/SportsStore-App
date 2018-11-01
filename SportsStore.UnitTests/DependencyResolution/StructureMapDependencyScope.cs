@@ -25,7 +25,7 @@ namespace SportsStore.UnitTests.DependencyResolution {
     using Moq;
     using SportsStore.Domain.Abstract;
     using SportsStore.Domain.Entities;
-	
+    using System.Configuration;
     /// <summary>
     /// The structure map dependency scope.
     /// </summary>
